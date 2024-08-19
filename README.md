@@ -1,6 +1,6 @@
 # Aprendiendo_Machine_Learning
 
-Proyecto realizado para aprender a realizar tratamiento de datos y su correcta implementación a 3 diferentes modelos de Machine Learning: 
+Proyecto realizado en Google Colab, el cual se realizó para aprender a realizar tratamiento de datos y su correcta implementación a 3 diferentes modelos de Machine Learning: 
 - KNearest-Neighbors (KNN)
 - Naive Bayes (Bernoulli)
 - Decision Tree Classifier
